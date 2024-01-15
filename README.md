@@ -1,1 +1,4 @@
+By exploring a diverse range of modeling techniques, from UML (Unified Modeling Language) diagrams to process models, a nuanced perspective on how these tools contribute to the efficiency and effectiveness of the software development lifecycle is developed. 
+This work is designed to foster a hands-on approach to software modeling, providing practical experience in utilizing modeling tools. Through a business case regarding Dexis Bank, the theoretical foundations of software modeling are put into practice.
+Dexis Bank has multiple branches in Belgium. They have initiated a project to reorganize the loan management to pursue increased efficiency and fairness. Their primary objective is to see a minimum 5% increase in the demand for loans in the coming year. Additionally, they aim to attract new clients and consolidate the bank’s image. 
 # VisualParadigm
